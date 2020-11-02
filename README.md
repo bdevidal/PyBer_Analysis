@@ -6,5 +6,9 @@ We have been tasked by Management to create a Summary Data Frame of our ride sha
 
 ## Results:
 
+![Image](/analysis/summary_data_frame.png)
+
+![Image](/analysis/PyBer_fare_summary.png)
+
 ## Summary:
 
